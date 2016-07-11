@@ -75,11 +75,10 @@
                 }
             );
 
-            canvas.width = window.innerWidth - 20;
-            canvas.height = window.innerHeight - 20;
+            canvas.width = window.innerWidth - 200;
+            canvas.height = window.innerHeight - 160;
 
         }
-
 
         // reset the ball at center
         function ballReset() {
